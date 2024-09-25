@@ -44,12 +44,12 @@ A real-time multiplayer version of the classic Pong game, built using **JavaScri
 
 3. Start the server:
     ```bash
-    node server.js
+    npm start
     ```
 
 4. Open your browser and navigate to:
     ```
-    http://localhost:3000
+    http://localhost:4000
     ```
 
 ## 🚀 Usage
@@ -71,8 +71,12 @@ A real-time multiplayer version of the classic Pong game, built using **JavaScri
 You can modify the server port or game settings by editing the `server.js` and `sockets.js` files. Ensure to restart the server after any changes.
 
 ## 🖼️ Examples
+Here are some screenshots of the gameplay:
 
-![Gameplay Screenshot](link-to-screenshot.png)  
+![Gameplay Screenshot 1](screenshot/1.png)  
+![Gameplay Screenshot 2](screenshot/2.png)  
+![Gameplay Screenshot 3](screenshot/3.png)
+
 You can view the live gameplay demo or explore the source code to customize and enhance it.
 
 ## 🤝 Contributing
