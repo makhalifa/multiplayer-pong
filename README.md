@@ -88,11 +88,12 @@ Contributions are welcome! If you'd like to contribute, please:
 
 Feel free to open issues for any bugs or feature requests.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
-
 ## 👤 Author
 
 - **Mohamed Khalifa**  
   [GitHub](https://github.com/makhalifa) | [LinkedIn](your-linkedin-profile)
+
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
